@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Confid-Default
+    name: Config-Default
 eureka:
   instance:
     prefer-ip-address: true
